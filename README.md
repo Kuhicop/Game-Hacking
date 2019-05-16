@@ -1,5 +1,5 @@
 # Acronyms and terminology
-[https://www.unknowncheats.me/wiki/Acronyms_and_Terminology]()
+[https://www.unknowncheats.me/wiki/Acronyms_and_Terminology](Cheat)
 
 # Unknown Cheats - Game Hacking Wiki
 https://www.unknowncheats.me/wiki/UnKnoWnCheaTs_Game_Hacking_Wiki
