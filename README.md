@@ -1,4 +1,4 @@
-# Acronyms and terminology
+## Acronyms and terminology
 https://www.unknowncheats.me/wiki/Acronyms_and_Terminology
 
 # Unknown Cheats - Game Hacking Wiki
