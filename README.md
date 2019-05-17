@@ -7,8 +7,10 @@
 ## Getting started guides
 - https://www.unknowncheats.me/forum/programming-beginners/50841-getting-started-game-hacking-definitive-guide-part-1-a.html
 - https://www.unknowncheats.me/forum/unity/285864-beginners-guide-hacking-unity-games.html
-- https://www.unknowncheats.me/forum/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html
 - https://www.unknowncheats.me/forum/programming-for-beginners/257420-started-video-game-hacking-ultimate-answer.html
+
+## Practical guide
+- https://www.unknowncheats.me/forum/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html
 
 ## C++ tutorial
 - https://www.unknowncheats.me/forum/c-and-c-/19300-tutorial.html
