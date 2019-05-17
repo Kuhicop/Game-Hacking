@@ -1,5 +1,5 @@
 # My best advice: # 
-Start watching [THIS YOUTUBE CHANNEL](https://www.youtube.com/channel/UCxuUEVD4bQqT3twlaeW9usQ)
+Check [THIS YOUTUBE CHANNEL](https://www.youtube.com/channel/UCxuUEVD4bQqT3twlaeW9usQ)
 
 That guy is amazing, a fucking genious.
 
