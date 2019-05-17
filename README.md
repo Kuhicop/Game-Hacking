@@ -23,6 +23,9 @@ That guy is amazing, a fucking genious.
 ## C++ tutorial
 - https://www.unknowncheats.me/forum/c-and-c-/19300-tutorial.html
 
+## C++ courses
+- https://www.udemy.com/
+
 ## C++ Game Hacking Resources
 - https://www.unknowncheats.me/forum/programming-for-beginners/115037-useful-gamehacking-programming-beginners-threads-mega-thread.html
 
