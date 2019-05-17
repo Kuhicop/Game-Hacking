@@ -1,8 +1,15 @@
+# My best advice: # 
+Start watching [THIS YOUTUBE CHANNEL](https://www.youtube.com/channel/UCxuUEVD4bQqT3twlaeW9usQ)
+That guy is amazing, a fucking genious.
+
 ## Acronyms and terminology
 - https://www.unknowncheats.me/wiki/Acronyms_and_Terminology
 
 ## Unknown Cheats - Game Hacking Wiki
 - https://www.unknowncheats.me/wiki/UnKnoWnCheaTs_Game_Hacking_Wiki
+
+## CheatTheGame
+- https://www.youtube.com/channel/UCxuUEVD4bQqT3twlaeW9usQ
 
 ## Getting started guides
 - https://www.unknowncheats.me/forum/programming-beginners/50841-getting-started-game-hacking-definitive-guide-part-1-a.html
