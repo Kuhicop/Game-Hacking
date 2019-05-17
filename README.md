@@ -9,7 +9,7 @@ That guy is amazing, a fucking genious.
 ## Unknown Cheats - Game Hacking Wiki
 - https://www.unknowncheats.me/wiki/UnKnoWnCheaTs_Game_Hacking_Wiki
 
-## CheatTheGame
+## Cheat The Game
 - https://www.youtube.com/channel/UCxuUEVD4bQqT3twlaeW9usQ
 
 ## Getting started guides
