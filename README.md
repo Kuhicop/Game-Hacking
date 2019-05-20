@@ -20,6 +20,13 @@ That guy is amazing, a fucking genious.
 ## Practical guide
 - https://www.unknowncheats.me/forum/programming-for-beginners/267073-coding-hacking-introduction-guide-practical-external-game-hacking.html
 
+## Hacking Unity Games
+- https://www.unknowncheats.me/forum/unity/310784-unity-series-setting-chapter-1-a.html
+- https://www.unknowncheats.me/forum/unity/311303-unity-series-start-programming-chapter-2-a.html
+
+## Implementing a radar
+- https://www.unknowncheats.me/forum/general-programming-and-reversing/135529-implement-simple-radar.html
+
 ## C++ tutorial
 - https://www.unknowncheats.me/forum/c-and-c-/19300-tutorial.html
 
