@@ -37,7 +37,7 @@ That guy is amazing, a fucking genious.
 - https://www.unknowncheats.me/forum/programming-for-beginners/115037-useful-gamehacking-programming-beginners-threads-mega-thread.html
 
 ## C++ creating hotkeys
-- https://www.unknowncheats.me/forum/d3d-tutorials-and-source/49832-hotkeys.html#post379512
+- https://www.unknowncheats.me/forum/374152-post1.html
 
 ## D3D tutorials
 - https://www.unknowncheats.me/forum/d3d-tutorials-and-source/
