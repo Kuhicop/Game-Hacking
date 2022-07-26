@@ -9,7 +9,9 @@ Don't skip any content! With content I mean: lessons, videos, testings, asking y
 
 Read everything and check everything in your scenarios (try to use Assault Cube or an easy game). This is the most important thing.
 
-If there's something you're experienced on, then it's an opportunity to test new methods. You still have things to test, else you won't be reading this.
+If there's something you're experienced on, then it's an opportunity to test new methods. 
+
+You still have things to test, else you won't be reading this.
 
 
 # Month 1
