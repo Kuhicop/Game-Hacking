@@ -1,11 +1,16 @@
 # Update 26/07/2022
 Changed this repo to ONLY contain my personal steps in game hacking. 
+
 So you will be able to follow my exact steps (skipping the useless ones).
 
 # Golden rule
+
 Don't skip any content! With content I mean: lessons, videos, testings, asking your doubts, etc... DON'T SKIP ANYTHING EVEN IF IT LOOKS EZ.
+
 Read everything and check everything in your scenarios (try to use Assault Cube or an easy game). This is the most important thing.
+
 If there's something you're experienced on, then it's an opportunity to test new methods. You still have things to test, else you won't be reading this.
+
 
 # Month 1
 
@@ -46,6 +51,7 @@ If there's something you're experienced on, then it's an opportunity to test new
 - The most common mistake when learning hacking is assuming you already know X. Remember golden rule: never skip lessons.
 
 I think I didn't forget anything... I will try to keep updating this list with my actual knowledge.
+
 Remember this list only reflects my path in learning game hacking so I know there are more advanced things that I didn't cover
 
 # Resources
