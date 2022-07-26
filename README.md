@@ -1,5 +1,5 @@
 # Update 26/07/2022
-I will change this repo to ONLY contain my personal steps in game hacking. So you will be able to follow my exact steps (skipping the useless ones).
+Changed this repo to ONLY contain my personal steps in game hacking. So you will be able to follow my exact steps (skipping the useless ones).
 
 # Golden rule
 Don't skip any content! With content I mean: lessons, videos, testings, asking your doubts, etc... DON'T SKIP ANYTHING EVEN IF IT LOOKS EZ.
