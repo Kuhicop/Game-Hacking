@@ -41,7 +41,7 @@ You still have things to test, else you won't be reading this.
 - This month will be dedicated to learning Direct3D and OpenGL hooking.
 - After hooking, you probably want to learn about ImGui to create your cool menus.
 
-# Month 7 and forward
+# Month 6 and forward
 
 - Lua injection https://colton1skees.github.io/posts/LuaReversal.html
 - Become pro in hooking
