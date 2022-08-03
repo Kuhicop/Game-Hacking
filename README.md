@@ -1,4 +1,4 @@
-# Update 26/07/2022
+# Updated
 Changed this repo to ONLY contain my personal steps in game hacking. 
 
 So you will be able to follow my exact steps (skipping the useless ones).
@@ -41,8 +41,10 @@ You still have things to test, else you won't be reading this.
 - This month will be dedicated to learning Direct3D and OpenGL hooking.
 - After hooking, you probably want to learn about ImGui to create your cool menus.
 
-# Month 6 and forward
+# Month 7 and forward
 
+- Lua injection https://colton1skees.github.io/posts/LuaReversal.html
+- Become pro in hooking
 - Keep reading forums like unknowncheats & guidedhacking and show your works, they will help you improving
 - Watch youtube videos about reversing and coding
 - Try to make as many testings as possible! 90% of my knowledge comes from trial and error
